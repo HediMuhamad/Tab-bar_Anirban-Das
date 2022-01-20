@@ -1,3 +1,8 @@
+# Resources
+* Javascript library: **ReactJS**
+* CSS Framework: **TailwindCSS**
+* Ui/Ux Design: by **Anirban Das** with some customization, find him on [dribbble](https://dribbble.com/DASRIDER)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
